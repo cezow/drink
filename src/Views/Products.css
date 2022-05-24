@@ -1,0 +1,30 @@
+#imgDrink {
+    width: 15rem;
+    height: 15rem;
+}
+
+#imgDrink:hover {
+    border: black 1px solid;
+    cursor: pointer;
+}
+
+#imgDrink:hover> {
+    border: black 1px solid;
+    cursor: pointer;
+}
+
+#imgDrinkdetail {
+    width: 20rem;
+    height: 20rem;
+}
+
+#imgMain {
+    width: 34rem;
+    height: 34rem;
+}
+
+#drinkName {
+    text-decoration: none;
+    color: rgba(255, 174, 24, 0.767);
+    font-family: cursive;
+}
